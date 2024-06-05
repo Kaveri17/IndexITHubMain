@@ -41,7 +41,7 @@ export const Members = [
     },
     {
         id: 7,
-        img: "/img/daily4.jpg",
+        img: "./anjana.jpg",
         name: "Anjana Poudel",
         position: "Senior Software Engineer (Data & AI)" 
     },
@@ -53,7 +53,7 @@ export const Members = [
     },
     {
         id: 9,
-        img: "/img/daily4.jpg",
+        img: "./kaveri.jpg",
         name: "Kaveri Shrestha",
         position: "Full-Stack Developer" 
     },
